@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="RaulfLaren2.PNG" alt="Thierry Mugler virtual exhibition" width="100%">
+</p>
+
 # The-Fall-Winter-2022-Collection-by-Ralph-Lauren
 ## Realized by: 
 Afshan Khan
